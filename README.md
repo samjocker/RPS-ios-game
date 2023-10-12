@@ -12,5 +12,6 @@
 實際影片
 ### 與APP inventor製作版本比較之影片(左Swift右APP inventor)
 https://youtu.be/REhq0kJnDBg
+![app畫面](https://github.com/samjocker/RPS-ios-game/blob/main/app%E5%AF%A6%E9%9A%9B%E5%9C%96%E7%89%87.png "app畫面")
 ## 心得
 這次的行動裝置實習老師透過較簡單的方式（積木程式）來教同學製作app的基本觀念，但若對app製作真的有興趣的話可以再去自學java、swift等等的語言。並且我在這次使用swift製作猜拳app時也學習到了常用的UI架構 知道了平常遊戲軟體以及購物軟體…等的UI架構差在哪裡，還有使用swift ui這個函式庫來達成一些很順滑的UI動畫來增加整體介面質感。所以經過這次的小專案後希望我之後能再利用swift來製作更大型的app更實用的app來上架app store給更多人使用到。
